@@ -1,0 +1,50 @@
+2025-06-02 21:05:53.675 | INFO     | __main__:<module>:39 - Logging to file: logs\project_log.log
+2025-06-02 21:05:53.675 | INFO     | __main__:main:61 - STARTING utils.logger.py
+2025-06-02 21:05:53.675 | INFO     | __main__:log_example:52 - This is an example info message.
+2025-06-02 21:05:53.675 | WARNING  | __main__:log_example:53 - This is an example warning message.
+2025-06-02 21:05:53.675 | ERROR    | __main__:log_example:54 - This is an example error message.
+2025-06-02 21:05:53.675 | INFO     | __main__:main:66 - View the log output at logs\project_log.log
+2025-06-02 21:05:53.676 | INFO     | __main__:main:67 - EXITING utils.logger.py.
+2025-06-02 21:08:34.032 | INFO     | __main__:<module>:39 - Logging to file: logs\project_log.log
+2025-06-02 21:08:34.034 | INFO     | __main__:main:61 - STARTING utils_logger.py
+2025-06-02 21:08:34.034 | INFO     | __main__:log_example:52 - This is an example info message.
+2025-06-02 21:08:34.035 | WARNING  | __main__:log_example:53 - This is an example warning message.
+2025-06-02 21:08:34.035 | ERROR    | __main__:log_example:54 - This is an example error message.
+2025-06-02 21:08:34.035 | INFO     | __main__:main:66 - View the log output at logs\project_log.log
+2025-06-02 21:08:34.035 | INFO     | __main__:main:67 - EXITING utils_logger.py.
+2025-06-02 21:08:52.766 | INFO     | utils_logger:<module>:39 - Logging to file: logs\project_log.log
+2025-06-02 21:08:52.766 | INFO     | __main__:main:38 - Starting database setup...
+2025-06-02 21:08:52.774 | INFO     | __main__:main:52 - Connected to database: C:\Repos\pro-analytics-01\data\project.sqlite3
+2025-06-02 21:08:52.774 | ERROR    | __main__:execute_sql_file:32 - Failed to execute C:\Repos\pro-analytics-01\project_sql_create\01_drop_tables.sql: [Errno 2] No such file or directory: 'C:\\Repos\\pro-analytics-01\\project_sql_create\\01_drop_tables.sql'
+2025-06-02 21:08:52.774 | ERROR    | __main__:main:62 - Error during database setup: [Errno 2] No such file or directory: 'C:\\Repos\\pro-analytics-01\\project_sql_create\\01_drop_tables.sql'
+2025-06-02 21:08:52.775 | INFO     | __main__:main:65 - Database connection closed.
+2025-06-02 21:09:52.057 | INFO     | utils_logger:<module>:39 - Logging to file: logs\project_log.log
+2025-06-02 21:09:52.058 | INFO     | __main__:main:38 - Starting database setup...
+2025-06-02 21:09:52.059 | INFO     | __main__:main:52 - Connected to database: C:\Repos\pro-analytics-01\data\project.sqlite3
+2025-06-02 21:09:52.059 | ERROR    | __main__:execute_sql_file:32 - Failed to execute C:\Repos\pro-analytics-01\project_sql_create\01_drop_tables.sql: [Errno 2] No such file or directory: 'C:\\Repos\\pro-analytics-01\\project_sql_create\\01_drop_tables.sql'
+2025-06-02 21:09:52.059 | ERROR    | __main__:main:62 - Error during database setup: [Errno 2] No such file or directory: 'C:\\Repos\\pro-analytics-01\\project_sql_create\\01_drop_tables.sql'
+2025-06-02 21:09:52.059 | INFO     | __main__:main:65 - Database connection closed.
+2025-06-02 21:15:21.502 | INFO     | utils_logger:<module>:39 - Logging to file: logs\project_log.log
+2025-06-02 21:15:21.502 | INFO     | __main__:main:38 - Starting database setup...
+2025-06-02 21:15:21.503 | INFO     | __main__:main:52 - Connected to database: C:\Repos\pro-analytics-01\data\project.sqlite3
+2025-06-02 21:15:21.512 | INFO     | __main__:execute_sql_file:30 - Executed: C:\Repos\pro-analytics-01\project_sql_create\01_drop_tables.sql
+2025-06-02 21:15:21.530 | INFO     | __main__:execute_sql_file:30 - Executed: C:\Repos\pro-analytics-01\project_sql_create\02_create_tables.sql
+2025-06-02 21:15:21.548 | INFO     | __main__:execute_sql_file:30 - Executed: C:\Repos\pro-analytics-01\project_sql_create\03_insert_records.sql
+2025-06-02 21:15:21.548 | INFO     | __main__:main:60 - Database setup completed successfully.
+2025-06-02 21:15:21.549 | INFO     | __main__:main:65 - Database connection closed.
+2025-06-02 21:17:50.000 | INFO     | utils_logger:<module>:39 - Logging to file: logs\project_log.log
+2025-06-02 21:17:50.000 | INFO     | __main__:main:38 - Starting database setup...
+2025-06-02 21:17:50.001 | INFO     | __main__:main:52 - Connected to database: C:\Repos\pro-analytics-01\data\project.sqlite3
+2025-06-02 21:17:50.037 | INFO     | __main__:execute_sql_file:30 - Executed: C:\Repos\pro-analytics-01\project_sql_create\01_drop_tables.sql
+2025-06-02 21:17:50.066 | INFO     | __main__:execute_sql_file:30 - Executed: C:\Repos\pro-analytics-01\project_sql_create\02_create_tables.sql
+2025-06-02 21:17:50.090 | INFO     | __main__:execute_sql_file:30 - Executed: C:\Repos\pro-analytics-01\project_sql_create\03_insert_records.sql
+2025-06-02 21:17:50.090 | INFO     | __main__:main:60 - Database setup completed successfully.
+2025-06-02 21:17:50.090 | INFO     | __main__:main:65 - Database connection closed.
+2025-06-02 21:18:52.808 | INFO     | utils_logger:<module>:39 - Logging to file: logs\project_log.log
+2025-06-02 21:18:52.809 | INFO     | __main__:main:38 - Starting database setup...
+2025-06-02 21:18:52.809 | INFO     | __main__:main:52 - Connected to database: C:\Repos\pro-analytics-01\data\project.sqlite3
+2025-06-02 21:18:52.830 | INFO     | __main__:execute_sql_file:30 - Executed: C:\Repos\pro-analytics-01\project_sql_create\01_drop_tables.sql
+2025-06-02 21:18:52.843 | INFO     | __main__:execute_sql_file:30 - Executed: C:\Repos\pro-analytics-01\project_sql_create\02_create_tables.sql
+2025-06-02 21:18:52.854 | INFO     | __main__:execute_sql_file:30 - Executed: C:\Repos\pro-analytics-01\project_sql_create\03_insert_records.sql
+2025-06-02 21:18:52.854 | INFO     | __main__:main:60 - Database setup completed successfully.
+2025-06-02 21:18:52.855 | INFO     | __main__:main:65 - Database connection closed.
